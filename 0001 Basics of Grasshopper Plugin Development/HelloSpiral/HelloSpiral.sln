@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSpiral", "HelloSpiral\HelloSpiral.csproj", "{EEC8761A-D901-4DA0-9BF5-D36CF2406943}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC8761A-D901-4DA0-9BF5-D36CF2406943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC8761A-D901-4DA0-9BF5-D36CF2406943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC8761A-D901-4DA0-9BF5-D36CF2406943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC8761A-D901-4DA0-9BF5-D36CF2406943}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EAAD3E0-0D67-4D0E-BDC8-88C27C8B5770}
+	EndGlobalSection
+EndGlobal
