@@ -6,7 +6,7 @@
 - A bit of coding experience.
 
 ## References
-- Populate 2D sampling algorithm: https://www.grasshopper3d.com/forum/topics/
+- Populate 2D sampling algorithm: https://www.grasshopper3d.com/forum/topics/populate-2d-sampling-algorithm
 - Value Remapping algorithm: https://stackoverflow.com/questions/3451553/value-remapping
 - RhinoCommon API: https://developer.rhino3d.com/api/RhinoCommon/html/R_Project_RhinoCommon.htm
 
