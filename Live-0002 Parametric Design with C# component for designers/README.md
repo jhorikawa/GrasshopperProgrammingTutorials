@@ -277,3 +277,8 @@ using Rhino.Collections;
 ![alt text](imgs/img5.png)
 
 ![alt text](imgs/img6.png)
+
+
+## Extra: Extend components to accept multiple attractor distances and powers
+
+![alt text](imgs/img7.png)
