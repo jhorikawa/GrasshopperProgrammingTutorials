@@ -1,5 +1,8 @@
 # Parametric Design with C# component for designers
 
+## Video Url
+https://youtu.be/7fPxQd7nUV0
+
 ## Requirements
 
 - Rhinoceros 6
