@@ -1,8 +1,12 @@
 # Parametric Design with C# component for designers
 
+## Video Url
+https://youtu.be/7fPxQd7nUV0
+
 ## Requirements
 
 - Rhinoceros 6
+- (Option; if you want to open the example file) Weaverbird plugin for Grasshopper
 - A bit of coding experience.
 
 ## References
