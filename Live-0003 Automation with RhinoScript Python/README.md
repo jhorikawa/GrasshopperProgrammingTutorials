@@ -1,4 +1,4 @@
-# Automation with RhinoScript Python
+# Basic Automation with RhinoScript Python
 
 ## Requirements
 - Rhinoceros 6
