@@ -330,3 +330,5 @@ ASALocalRun/
 
 */reference/
 *.cloudf
+
+temp/
